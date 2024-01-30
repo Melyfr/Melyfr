@@ -33,11 +33,13 @@
 
 #
 
-### Проекты:
-
-#
-
 ### Связаться со мной:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-1F2544?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/melyfr) [![Gmail Badge](https://img.shields.io/badge/Email-1F2544?style=for-the-badge&logo=maildotru&logoColor=F7DF1E)](mailto:kornienko-web@yandex.ru)
+
+#
+
+### Проекты:
+
+
 
