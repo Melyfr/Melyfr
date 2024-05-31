@@ -25,9 +25,7 @@
   <img src="https://img.shields.io/badge/Vite-1F2544?style=for-the-badge&logo=vite&logoColor=#646CFF"/> 
   <img src="https://img.shields.io/badge/Webpack-1F2544?style=for-the-badge&logo=webpack&logoColor=#8DD6F9"/> 
   <img src="https://img.shields.io/badge/Node.JS-1F2544?style=for-the-badge&logo=nodedotjs&logoColor=#339933"/> 
-  <img src="https://img.shields.io/badge/Python-1F2544?style=for-the-badge&logo=python&logoColor=#3776AB"/> 
   <img src="https://img.shields.io/badge/PHP-1F2544?style=for-the-badge&logo=php&logoColor=#777BB4"/> 
-  <img src="https://img.shields.io/badge/C++-1F2544?style=for-the-badge&logo=cplusplus&logoColor=00599C"/> 
   <img src="https://img.shields.io/badge/PostgreSQL-1F2544?style=for-the-badge&logo=postgresql&logoColor=#4169E1"/> 
 </div>
 
